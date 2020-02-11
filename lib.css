@@ -14,9 +14,9 @@ div.one{
 
     height: 400px;
     width: 250px;
-    background: url(book.jpg);
+    background: url(lib.jpg);
 
 }
 body{
-    background-color: yellow;
+    background-color: rgb(223, 223, 146);
 }
