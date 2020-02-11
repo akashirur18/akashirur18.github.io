@@ -1,0 +1,19 @@
+h1{
+    color: yellow;
+    text-align:center;
+    background:black;
+}
+
+p{
+    color: red;
+    text-align: justify;
+    font-size: 16px;
+}
+
+div.one{
+
+    height: 400px;
+    width: 250px;
+    background: url(book.jpg);
+
+}
